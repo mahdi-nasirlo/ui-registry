@@ -1,0 +1,42 @@
+[
+  {
+    "name": "hello-world",
+    "type": "registry:component",
+    "registryDependencies": [],
+    "files": [
+      {
+        "path": "r/hello-world.json"
+      }
+    ]
+  },
+  {
+    "name": "example-form",
+    "type": "registry:component",
+    "registryDependencies": [],
+    "files": [
+      {
+        "path": "r/example-form.json"
+      }
+    ]
+  },
+  {
+    "name": "example-with-css",
+    "type": "registry:component",
+    "registryDependencies": [],
+    "files": [
+      {
+        "path": "r/example-with-css.json"
+      }
+    ]
+  },
+  {
+    "name": "complex-component",
+    "type": "registry:component",
+    "registryDependencies": [],
+    "files": [
+      {
+        "path": "r/complex-component.json"
+      }
+    ]
+  }
+]
