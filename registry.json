@@ -1,0 +1,19 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "@nsr",
+  "version": "1.0.0",
+  "description": "Shared UI registry for shadcn-based components",
+  "author": "mahdi nasirlo",
+  "registry": [
+    {
+      "name": "button",
+      "type": "component",
+      "files": [
+        {
+          "path": "components/ui/button.tsx",
+          "target": "components/ui/button.tsx"
+        }
+      ]
+    }
+  ]
+}
