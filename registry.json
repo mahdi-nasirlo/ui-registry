@@ -10,7 +10,7 @@
       "type": "component",
       "files": [
         {
-          "path": "components/ui/button.tsx",
+          "path": "components/button/index.tsx",
           "target": "components/ui/button.tsx"
         }
       ]
